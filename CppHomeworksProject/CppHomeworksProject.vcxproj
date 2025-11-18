@@ -124,12 +124,22 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="homework1.cpp" />
+    <ClCompile Include="homework10.cpp" />
+    <ClCompile Include="homework11.cpp" />
     <ClCompile Include="homework2.cpp" />
     <ClCompile Include="homework3.cpp" />
     <ClCompile Include="homework4.cpp" />
     <ClCompile Include="homework5.1.cpp" />
     <ClCompile Include="homework5.2.cpp" />
     <ClCompile Include="homework5.3.cpp" />
+    <ClCompile Include="homework6.1.cpp" />
+    <ClCompile Include="homework6.2.cpp" />
+    <ClCompile Include="homework6.3.cpp" />
+    <ClCompile Include="homework7.cpp" />
+    <ClCompile Include="homework8.cpp" />
+    <ClCompile Include="homework9.1.cpp" />
+    <ClCompile Include="homework9.2.cpp" />
+    <ClCompile Include="homework9.3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
