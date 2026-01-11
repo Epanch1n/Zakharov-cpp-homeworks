@@ -130,6 +130,8 @@
     <ClCompile Include="homework12.2.cpp" />
     <ClCompile Include="homework12.3.cpp" />
     <ClCompile Include="homework13.cpp" />
+    <ClCompile Include="homework14.cpp" />
+    <ClCompile Include="homework15-16.cpp" />
     <ClCompile Include="homework2.cpp" />
     <ClCompile Include="homework3.cpp" />
     <ClCompile Include="homework4.cpp" />
@@ -144,6 +146,7 @@
     <ClCompile Include="homework9.1.cpp" />
     <ClCompile Include="homework9.2.cpp" />
     <ClCompile Include="homework9.3.cpp" />
+    <ClCompile Include="zachet.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
